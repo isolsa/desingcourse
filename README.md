@@ -100,3 +100,4 @@ ruta de aprendizaje coherente.
 - **CSS3:** Estilos visuales, diseño responsivo y maquetación.
 - **JavaScript (Vanilla JS):** Lógica interactiva y dinamismo de la interfaz.
 - **Vibe Coding:** Metodología de desarrollo asistido por Inteligencia Artificial (copilotos y prompts) para idear, escribir y refactorizar el código de forma iterativa.
+
