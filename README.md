@@ -13,6 +13,17 @@ como los cursos ya diseñados por docentes y facultades, y permita
 combinar cursos y módulos existentes para armar nuevos cursos con una
 ruta de aprendizaje coherente.
 
+## Objetivos del Proyecto (SMART)
+
+- **Específico (S):** Desarrollar una aplicación web interactiva que permita al equipo de educación continua ingresar una idea temática, generar mediante IA la estructura curricular completa de un curso, almacenar los programas en una biblioteca centralizada y combinar módulos o cursos existentes para componer nuevas rutas de aprendizaje.
+- **Medible (M):** 
+  - Generación de programas completos con estructura modular definida (módulos, lecciones y objetivos).
+  - Visualización y filtrado de cursos existentes y generados en la biblioteca.
+  - Interfaz funcional para seleccionar y combinar al menos 2 módulos en un nuevo curso sin errores en consola.
+- **Alcanzable (A):** Implementar la solución en HTML5, CSS3 y JavaScript con un flujo asistido por IA (Vibe Coding), asegurando una arquitectura modular y una interfaz clara y responsiva.
+- **Relevante (R):** Agilizar el proceso de diseño curricular universitario, reducir tiempos de formulación de propuestas académicas y reutilizar el conocimiento pedagógico existente en las facultades.
+- **Temporal (T):** Completar y validar el MVP funcional con las tres capacidades principales antes del cierre de la entrega final del taller.
+
 ## Alcance
 
 1. **Ingreso de la idea:** un espacio donde el equipo describe la idea
